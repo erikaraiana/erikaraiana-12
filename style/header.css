@@ -32,5 +32,6 @@
     font-weight: 400;
 }
 .texto-tablet{
-    display: block; font-size: ;
+    display: block; font-size: 30px; color: blue;
+    margin-top: 3em; padding: 1em;
 }
